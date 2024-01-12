@@ -14,8 +14,7 @@ I'm a dedicated Software QA Engineer with a focus on automation and efficiency i
 - 💼 &nbsp; Experienced in Agile/Scrum methodologies, SDLC, STLC, and bug life cycles.
 - 🌱 &nbsp; Skilled in using Selenium with Java, Playwright, JUnit, Cucumber, and Postman.
 - ✍️ &nbsp; Successfully implemented automated testing frameworks, leading to significant improvements in software reliability.
-<br />
-
+<br/>
 <br/>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -35,5 +34,4 @@ I'm a dedicated Software QA Engineer with a focus on automation and efficiency i
 <br/>
 
 <img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
 ---
