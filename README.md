@@ -3,7 +3,7 @@
 I'm a dedicated Software QA Engineer with a focus on automation and efficiency in testing. Currently residing in the bustling city of Toronto, ON.
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-<a href="https://www.linkedin.com/in/hiralsheth27"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-hiralsheth27-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/hiralrsheth"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-hiralrsheth-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
 <br/>
